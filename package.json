@@ -55,6 +55,7 @@
   },
   "dependencies": {
     "chayns-components": "^4.14.11",
+    "eslint-import-resolver-webpack": "^0.12.1",
     "immer": "^5.3.6",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
